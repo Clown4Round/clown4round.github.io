@@ -6,7 +6,7 @@ UnderSpeak is a Discord bot that functions similarly to a Text-to-Speech (TTS) b
 
 
 ## 🚀 Invite the Bot
-[Click here to invite UnderSpeak to your server!](https://discord.com/oauth2/authorize?client_id=1563340938036641792&permissions=3214336&response_type=code&redirect_uri=78.154.103.23%3A14877&integration_type=0&scope=bot+messages.read+applications.commands)
+[Click here to invite UnderSpeak to your server!](https://discord.com/oauth2/authorize?client_id=1563340938036641792&permissions=3214336&response_type=code&redirect_uri=78.154.103.23%3A14877&integration_type=0&scope=bot+messages.read+rpc.voice.read)
 
 *Note: Make sure the bot has permissions to **View Channels**, **Connect**, and **Speak** in your voice channels!*
 
